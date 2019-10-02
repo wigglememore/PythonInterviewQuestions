@@ -1,0 +1,39 @@
+python is an interpreted language
+- it doens't have to be compiles
+
+dynamically typed
+- you don't have to declare variable types
+
+python can be slow
+- lets you use C based extensions, like numpy
+
+what is a dictionary
+- key-value relationship
+- indexed by keys
+
+*ARGS
+- you don't know how many parameteres are going to go into the function
+
+**KWARGS
+- don't know how many keywords you're going to be passing into the function
+- passing a dictionary into the function, that can be utilisted within the function
+
+negative index
+- normal list indexing is 0 to len(list)
+- negative indexing is -1 as the end of the list
+
+try-except-else, when does else run
+- else runs when there is no error
+
+what is floor division //
+- given the output, will floor it down to the nearest whole number
+
+how is memory managed in python
+- through heap space, build in trash can where it tries to free up space when it can
+
+are arguments in python passed in by value or by reference
+- passed in as objects, all references point to objects
+
+what are the immutable and mutable data types in python
+- mutable - lists, sets, dictionaries
+- immutable - strings, numbers and tuples

@@ -1,0 +1,6 @@
+steps to follow
+1 - brute force solution
+2 - think of a simpler version of the problem
+3 - think of the problem with simpler examples and try to find a pattern
+4 - use visualisation
+5 - test solution on a few examples
